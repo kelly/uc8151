@@ -1,0 +1,11 @@
+{
+  "name": "uc8151",
+  "version": "1.0.0",
+  "description": "javascript port of UC8151 e-ink device for RP2040 and Kaluma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly",
+  "license": "ISC"
+}
