@@ -64,7 +64,6 @@ const LUT_BB = new Uint8Array([
 
 class UC8151 {
   /**
-   * Setup SSD1306 for SPI connection
    * @param {SPI} spi
    * @param {Object} config
    */
